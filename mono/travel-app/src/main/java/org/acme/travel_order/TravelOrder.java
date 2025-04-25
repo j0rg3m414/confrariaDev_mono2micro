@@ -1,4 +1,4 @@
-package org.acme.travelorders;
+package org.acme.travel_order;
 
 import io.quarkus.hibernate.orm.panache.PanacheEntity;
 import jakarta.persistence.Entity;
